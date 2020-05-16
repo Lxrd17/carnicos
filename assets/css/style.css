@@ -481,7 +481,9 @@ th{
   background-color: #00f7ff;
   height: 500px;
 }
-
+.sectionbg3{
+  background-color: #fff;
+}
 .section-title {
   text-align: center;
   padding-bottom: 30px;
