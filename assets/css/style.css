@@ -189,7 +189,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
     content: "\ea9d";
   }
 }
-.mobile-nav {
+.mobile-nav { 
   position: fixed;
   top: 0;
   bottom: 0;
@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   left: -260px;
   width: 260px;
   padding-top: 18px;
-  animation: backa1 .5s linear infinite;
+  animation: backa1 3s linear infinite;
   transition: 0.4s;
 }
 
